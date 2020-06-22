@@ -1,3 +1,6 @@
 # Don't track content of these folders
 web-folder/
 db-base/
+
+*.zip
+*.sql
